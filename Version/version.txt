@@ -1,1 +1,1 @@
-latest_version=105
+latest_version=107
